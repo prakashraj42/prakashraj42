@@ -15,7 +15,7 @@
 ---
 
 ## 📊 LeetCode & GitHub Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/prakashraj42?theme=dark&font=Almarai&ext=heatmap&site=cn)
+
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakashraj42&bg_color=000000&color=00fbff&line=1bb139&point=284a52&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
