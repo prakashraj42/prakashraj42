@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Prakash Raj! 👋
 
-<!--
-**prakashraj42/prakashraj42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💡 Passionate about problem-solving, backend development, and databases.
+- 💻 Constantly learning and building projects in **Python**, **MongoDB**, and **GitHub workflows**.
+- 🎯 Focused on improving **Data Structures & Algorithms** and contributing to open-source projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 LeetCode & GitHub Stats  
+![LeetCode Stats](https://leetcard.jacoblin.cool/prakashraj42?theme=dark&font=Almarai&ext=heatmap&site=cn)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prakashraj42&bg_color=000000&color=00fbff&line=1bb139&point=284a52&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📈 GitHub Contributions
+![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prakashraj42/mylearnings.svg)
+
+---
+
+## 📫 Connect with Me  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakashraj42mk@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)  
