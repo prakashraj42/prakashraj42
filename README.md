@@ -21,8 +21,19 @@
 
 ---
 
-## 📈 GitHub Contributions
+
+## 📈 GitHub Contributions  
+
 ![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prakashraj42/mylearnings.svg)
+![GitHub Followers](https://img.shields.io/github/followers/prakashraj42?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/prakashraj42?style=for-the-badge)
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/prakashraj42/mylearnings?style=for-the-badge)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/prakashraj42/mylearnings?style=for-the-badge)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prakashraj42&theme=dark&hide_border=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashraj42&layout=compact&theme=dark)  
+
 
 ---
 
