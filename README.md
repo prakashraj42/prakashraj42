@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 💡 Passionate about problem-solving, backend development, and databases.
 - 💻 Constantly learning and building projects in **Python**, **MongoDB**, and **GitHub workflows**.
-- 🎯 Focused on improving **Data Structures & Algorithms** and contributing to open-source projects.
+
 
 ---
 
